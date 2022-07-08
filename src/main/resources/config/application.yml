@@ -1,0 +1,9 @@
+server:
+  port: 81
+
+
+tools:
+  ip:
+    cycle: 5L
+    cycleReset: false
+    model: "detail"
